@@ -31,7 +31,7 @@
         <div>
             <input type="submit" value="로그인">
         </div>
-    </form>
+    </form> 
     
     <?php 
         }else{
