@@ -46,6 +46,6 @@
         foreach($prices as $key => $price){
             echo $key.' '.$price.'<br/>';
         }
-    ?>
+    ?> 
 </body>
 </html>
