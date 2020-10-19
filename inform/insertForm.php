@@ -41,5 +41,5 @@
         </table>
     </form>
     <a class="link" href="list.php">회원목록</a>
-</body>
+</body> 
 </html>
