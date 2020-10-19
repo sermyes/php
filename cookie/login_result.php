@@ -22,6 +22,6 @@
     history.back();
 </script> 
 
-<?php
+<?php 
     }
 ?>   
