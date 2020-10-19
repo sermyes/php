@@ -50,5 +50,5 @@
         header("Location:http://localhost/inform/login_form.php");
         exit;
     }
-?>
+?> 
  
