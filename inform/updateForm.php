@@ -66,7 +66,7 @@
         <!-- id는 input타입이 아니므로 hidden타입으로 따로 id를 updatePro로 전송해준다. -->
     </form>
 <?php
-    }
+    } 
 ?>
 </body>
 </html>
