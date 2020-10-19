@@ -86,3 +86,4 @@ alter table member add tel varchar(20) not null;
      
 
 
+
