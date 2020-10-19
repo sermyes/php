@@ -62,7 +62,7 @@
     }
 ?>
         </tbody>
-    </table>     
+    </table>      
 <?php
     }
 ?>    
