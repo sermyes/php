@@ -19,5 +19,5 @@
         
     }catch(PDOEXception $Exception){
         die('오류 : '.$Exception->getMessage());
-    }
+    } 
 ?>
