@@ -32,7 +32,7 @@
     increment(); 
     increment(); 
     increment();
-?>
+?> 
 
 <?php 
     include('inc/footer.php');
