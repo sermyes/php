@@ -6,4 +6,4 @@
 
     setcookie("userid","");
     header("Location:http://localhost/cookie/login_form.php");
-?>
+?> 
