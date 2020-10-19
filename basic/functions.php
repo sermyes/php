@@ -62,7 +62,7 @@
             static $count = 0; // 정적변수는 메모리에 저장. 
             echo "{$count} ";
             $count++;
-        }
+        } 
         increment(); 
         increment(); // count 초기화 x. 정적변수는 값을 유지한다.
     ?>
